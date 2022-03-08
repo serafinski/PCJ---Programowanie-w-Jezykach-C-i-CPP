@@ -1,4 +1,5 @@
 #include <iostream>
+#include <math.h>
 
 double bmi(double waga, double wzost) {
     return waga/ pow(wzost,2);
@@ -33,9 +34,9 @@ int main() {
 //
 //    std::cin>>a>>c>>b;
 //    std::cout<<"a: "<<a<<"\nb: "<<b<<"\nc: "<<c<<std::endl;
-bool t = 5;
+    bool t = 5;
 
-if(-1) std::cout<<t<<std::endl;//5
-else std::cout<<"Nie"<<std::endl;
+    if(-1) std::cout<<t<<std::endl;//5
+    else std::cout<<"Nie"<<std::endl;
     return 0;
 }

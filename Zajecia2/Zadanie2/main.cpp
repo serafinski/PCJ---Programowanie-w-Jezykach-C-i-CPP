@@ -49,7 +49,7 @@ int main() {
     else if (a<b && a<c)
         std::cout << a << std::endl;
     else
-        return b;
+        std::cout << b << std::endl;
 //pamiętamy o zakończeniu makra!!!
 #endif
 }

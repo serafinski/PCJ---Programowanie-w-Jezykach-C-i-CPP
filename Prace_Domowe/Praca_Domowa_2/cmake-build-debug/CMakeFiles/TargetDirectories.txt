@@ -1,3 +1,3 @@
-/Users/tomek/Desktop/PCJ---Programowanie-w-Jezykach-C-i-CPP/Prace_Domowe/Praca_Domowa_2/cmake-build-debug/CMakeFiles/Praca_Domowa_2.dir
-/Users/tomek/Desktop/PCJ---Programowanie-w-Jezykach-C-i-CPP/Prace_Domowe/Praca_Domowa_2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/tomek/Desktop/PCJ---Programowanie-w-Jezykach-C-i-CPP/Prace_Domowe/Praca_Domowa_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Prace_Domowe/Praca_Domowa_2/cmake-build-debug/CMakeFiles/Praca_Domowa_2.dir
+D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Prace_Domowe/Praca_Domowa_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Prace_Domowe/Praca_Domowa_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zajecia6/Zadanie1/cmake-build-debug"
+			"value" : "d:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zaj\u0119cia7/Zadanie2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -623,7 +623,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zajecia6/Zadanie1"
+			"value" : "D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zaj\u0119cia7/Zadanie2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -635,7 +635,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Zadanie1"
+			"value" : "C:/Program Files (x86)/Zadanie2"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -851,7 +851,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Zadanie1"
+			"value" : "Zadanie2"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1230,7 +1230,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Zadanie1_BINARY_DIR",
+			"name" : "Zadanie2_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1239,10 +1239,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zajecia6/Zadanie1/cmake-build-debug"
+			"value" : "D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zaj\u0119cia7/Zadanie2/cmake-build-debug"
 		},
 		{
-			"name" : "Zadanie1_IS_TOP_LEVEL",
+			"name" : "Zadanie2_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1254,7 +1254,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Zadanie1_SOURCE_DIR",
+			"name" : "Zadanie2_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zajecia6/Zadanie1"
+			"value" : "D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zaj\u0119cia7/Zadanie2"
 		}
 	],
 	"kind" : "cache",

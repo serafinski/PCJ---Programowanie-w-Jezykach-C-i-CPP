@@ -1,0 +1,3 @@
+D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zajęcia8/Zadanie3/cmake-build-debug/CMakeFiles/Zadanie3.dir
+D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zajęcia8/Zadanie3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PJATK/Semestr_2/PJC/PCJ---Programowanie-w-Jezykach-C-i-C--/Zajęcia8/Zadanie3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

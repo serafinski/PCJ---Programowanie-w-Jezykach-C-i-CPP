@@ -1,0 +1,23 @@
+# ninja log v5
+2	295	6778718662230286	CMakeFiles/Praca_Domowa_5.dir/main.cpp.obj	74f19ffed774b70b
+3	291	6778718478079688	CMakeFiles/Praca_Domowa_5.dir/Cabriolet.cpp.obj	70f7bdca84a06455
+8	335	6778716946266498	CMakeFiles/Praca_Domowa_5.dir/Car.cpp.obj	b403fcbb95c01250
+295	381	6778718663070289	Praca_Domowa_5.exe	f173b3fc94877e76
+3	280	6778719049011630	CMakeFiles/Praca_Domowa_5.dir/main.cpp.obj	74f19ffed774b70b
+281	366	6778719049852113	Praca_Domowa_5.exe	f173b3fc94877e76
+3	291	6778719210249759	CMakeFiles/Praca_Domowa_5.dir/main.cpp.obj	74f19ffed774b70b
+292	377	6778719211080051	Praca_Domowa_5.exe	f173b3fc94877e76
+3	295	6778719311806303	CMakeFiles/Praca_Domowa_5.dir/main.cpp.obj	74f19ffed774b70b
+295	380	6778719312626314	Praca_Domowa_5.exe	f173b3fc94877e76
+3	287	6778720198365041	CMakeFiles/Praca_Domowa_5.dir/main.cpp.obj	74f19ffed774b70b
+287	373	6778720199205796	Praca_Domowa_5.exe	f173b3fc94877e76
+8	298	6778721344713938	CMakeFiles/Praca_Domowa_5.dir/Car.cpp.obj	b403fcbb95c01250
+3	301	6778721344733935	CMakeFiles/Praca_Domowa_5.dir/main.cpp.obj	74f19ffed774b70b
+12	307	6778721344794225	CMakeFiles/Praca_Domowa_5.dir/Cabriolet.cpp.obj	70f7bdca84a06455
+307	393	6778721345638499	Praca_Domowa_5.exe	f173b3fc94877e76
+2	286	6778721731738246	CMakeFiles/Praca_Domowa_5.dir/main.cpp.obj	74f19ffed774b70b
+286	371	6778721732558260	Praca_Domowa_5.exe	f173b3fc94877e76
+2	288	6778721812328798	CMakeFiles/Praca_Domowa_5.dir/main.cpp.obj	74f19ffed774b70b
+289	373	6778721813158797	Praca_Domowa_5.exe	f173b3fc94877e76
+3	288	6778722134937497	CMakeFiles/Praca_Domowa_5.dir/main.cpp.obj	74f19ffed774b70b
+288	375	6778722135789180	Praca_Domowa_5.exe	f173b3fc94877e76

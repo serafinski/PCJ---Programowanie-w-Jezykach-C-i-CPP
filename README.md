@@ -1,2 +1,4 @@
 # PCJ - Programowanie w Językach C i C++
- Zadania z PCJ rozwiązywane na ćwiczeniach oraz prace domowe rozwiązane przeze mnie.
+## Prowadząca Ćwiczenia - inż. Sasha Rzepkowska
+### Opis
+Zadania z PCJ rozwiązywane na ćwiczeniach oraz prace domowe rozwiązane przeze mnie.

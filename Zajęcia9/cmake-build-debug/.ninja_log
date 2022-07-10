@@ -1,8 +1,0 @@
-# ninja log v5
-2	391	6756158043867890	CMakeFiles/Zajcia9.dir/main.cpp.obj	ea06403e362eb2e8
-3	388	6756098690530354	CMakeFiles/Zajcia9.dir/Point.cpp.obj	4407614c309ea025
-392	480	6756158044717887	Zajcia9.exe	ea6d498793d68c0c
-5	392	6756158043867890	CMakeFiles/Zajcia9.dir/Rect.cpp.obj	b4f19c32efa549a2
-5	315	6756169153576656	CMakeFiles/Zajcia9.dir/Letters.cpp.obj	3b28284493326f71
-2	383	6756169154256689	CMakeFiles/Zajcia9.dir/main.cpp.obj	ea06403e362eb2e8
-383	469	6756169155086676	Zajcia9.exe	9d823398a32d93bd

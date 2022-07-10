@@ -1,3 +1,0 @@
-/Users/tomek/Desktop/C++/21_03/Wejsciowka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/tomek/Desktop/C++/21_03/Wejsciowka/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/tomek/Desktop/C++/21_03/Wejsciowka/cmake-build-debug/CMakeFiles/Wejsciowka.dir
